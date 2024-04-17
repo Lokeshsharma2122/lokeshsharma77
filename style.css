@@ -1,0 +1,84 @@
+*
+{
+    margin: 0%;
+   padding: 0%;
+    box-sizing: border-box;
+}
+button
+{
+    background-color: black;
+    color:yellow;
+    padding: 10px;
+
+}
+.full_contant
+{
+    background-image: url(img02.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;, 
+}
+.text
+{
+    padding-top: 200px;
+    padding-left: 20px;
+    width: 550px;
+    font-size: 18px;
+}
+h1{
+    font-size: 70px;
+    padding-left:100px;
+    padding-bottom: 25px;
+}
+
+button
+{
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 70px;
+    
+    
+
+}
+button:hover
+{
+    background-color: darkblue;
+    color: rgb(255, 255, 255);
+}
+.card
+{
+    display: flex;
+    margin-left: 100px ;
+    margin-top: 20px;
+    gap: 3.5rem;
+}
+
+
+.location
+{
+    width: 150px;
+    height: 70px;
+    background-color: rgb(31, 29, 29);
+    border-radius: 20px;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(237, 234, 8);
+    margin-top: 50px;
+    padding-top: 25px;
+    margin-left: -77px;
+}
+#contact
+{
+    width: 250px;
+    height: 70px;
+    background-color: rgb(31, 29, 29);
+    border-radius: 20px;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(237, 234, 8);
+    margin-top: 50px;
+    
+}
